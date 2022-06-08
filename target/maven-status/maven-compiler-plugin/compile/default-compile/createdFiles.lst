@@ -1,0 +1,4 @@
+hibernate\crud\ProductDao.class
+hibernate\PrepareDataApp.class
+hibernate\crud\Product.class
+hibernate\crud\ProductRepository.class
